@@ -1,2 +1,2 @@
 # Investigacion2-DSA
-https://www.youtube.com/@GefeRamirez
+https://www.youtube.com/@GefeRamirez/videos
